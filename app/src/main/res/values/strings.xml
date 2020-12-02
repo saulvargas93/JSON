@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pract8</string>
+    <string name="titulo">implementacion de JSON</string>
+    <string name="tnombre">ingresa tu nombre</string>
+    <string name="tedad">ingresa tu edad</string>
+    <string name="tsexo">ingresa tu sexo</string>
+    <string name="tsexo">ingresa tu sexo</string>
+    <string name="tjson">este es JSON</string>
+    <string name="rjson">Resultado JSON</string>
+    <string name="btnjson">convierteJSON</string>
+    <string name="btncadena">convierte cadena</string>
+</resources>
